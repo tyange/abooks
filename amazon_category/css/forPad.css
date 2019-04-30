@@ -161,9 +161,13 @@ header h1 a{
 }
 .csGuide{
     display:block;
+    position: relative;
 }
 .csGuide p{
-    font-size:13px;
+    position: absolute;
+    bottom:3px;
+    right:10px;
+    font-size:10px;
     letter-spacing: 1px;
 }
 .csGuide p span{
