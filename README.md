@@ -1,6 +1,6 @@
 # ABOOKS
 
-> https://babyazalea.github.io/abooks/
+> https://tyange.github.io/abooks/
 
 * 아마존이 한국에서 온라인 서점을 만든다면? 하는 생각에서 출발한 웹.
 
